@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "npm": "^10.9.0"
+  },
+  "name": "treeoflife",
+  "description": "Repositório para novos serviços de arvore genealógica.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcioUfs/treeOfLife.git"
+  },
+  "keywords": [
+    "arvore",
+    "genealogia",
+    "animais"
+  ],
+  "author": "Marcio Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcioUfs/treeOfLife/issues"
+  },
+  "homepage": "https://github.com/MarcioUfs/treeOfLife#readme"
+}
