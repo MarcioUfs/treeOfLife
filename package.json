@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "express": "^4.21.1",
-    "npm": "^10.9.0"
+    "npm": "^10.9.0",
+    "treeoflife": "file:"
   },
   "name": "treeoflife",
   "description": "Repositório para novos serviços de arvore genealógica.",
